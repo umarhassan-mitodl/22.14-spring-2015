@@ -12,7 +12,7 @@ uid: 03d916b3-5f45-bfd1-0d8b-ae0c78ce8b2a
 For Session 1
 -------------
 
-Allen, Todd, Jeremy Busby, et al. "{{% resource_link "70daea2c-051b-49d1-a6eb-cdfa4ec17eac" "Materials Challenges for Nuclear Systems" %}}." _Materials Today_ 13, no. 12 (2010): 14–23.
+Allen, Todd, Jeremy Busby, et al. "[Materials Challenges for Nuclear Systems](http://dx.doi.org/10.1016/S1369-7021(10)70220-0)." _Materials Today_ 13, no. 12 (2010): 14–23.
 
 \[**Note from instructor**: A thorough overview of the state of nuclear materials challenges in fission power reactors.\]
 
@@ -24,25 +24,25 @@ Allen, Samuel, Edwin Thomas. Excerpts in Chapters 3 and 5 in _The Structure of M
 For Session 3
 -------------
 
-Graef, Marc De. Chapters 3.3–3.5 in _Structure of Materials: An Introduction to Crystallography, Diffraction and Symmetry_. Cambridge University Press, 2012, pp. 56–64. ISBN: 9781139051637. \[Preview with {{% resource_link "08d3c7e2-bdbd-459d-aa63-8056185fb7e2" "Google Books" %}}\]
+Graef, Marc De. Chapters 3.3–3.5 in _Structure of Materials: An Introduction to Crystallography, Diffraction and Symmetry_. Cambridge University Press, 2012, pp. 56–64. ISBN: 9781139051637. \[Preview with [Google Books](http://books.google.com/books?id=NMUgAwAAQBAJ&pg=PA56#v=onepage)\]
 
-{{% resource_link "11521879-2d1a-42bc-ac4d-6f7178b08e33" "Crystal Maker Visualization Software" %}}
+[Crystal Maker Visualization Software](http://crystalmaker.com/)
 
 \[**Note from instructor**: Use this to generate crystal structures from space groups.\]
 
 For Session 4
 -------------
 
-Ohring, Milton. Chapters 5.4–5.7 in _Engineering Materials Science_. Academic Press, 1995, pp. 206–37. ISBN: 9780125249959. \[Preview with {{% resource_link "1130a468-b312-435a-bbc8-ab8a4aed6b04" "Google Books" %}}\]
+Ohring, Milton. Chapters 5.4–5.7 in _Engineering Materials Science_. Academic Press, 1995, pp. 206–37. ISBN: 9780125249959. \[Preview with [Google Books](http://books.google.com/books?id=G36o9PM8aLIC&pg=PA209#v=onepage)\]
 
 For Session 5
 -------------
 
 Free Energy Diagrams of Mixing:  
-David Dye. "{{% resource_link "ae2d6704-ae16-4fc2-bcf7-a5a8bf9574b2" "5.1 | MSE104 – Thermodynamics of Solutions" %}}." July 25, 2012. Youtube.
+David Dye. "[5.1 | MSE104 – Thermodynamics of Solutions](https://www.youtube.com/watch?v=SL1qwsQMp_8)." July 25, 2012. Youtube.
 
 Generating Phase Diagram from Free Energy Curves:  
-David Dye. "{{% resource_link "f2c67b54-2794-447e-8e21-c889df0a2019" "5.2 | MSE104 – Gibbs Energy Curves" %}}." August 1, 2012. Youtube.
+David Dye. "[5.2 | MSE104 – Gibbs Energy Curves](https://www.youtube.com/watch?v=WgWDN0K79LU)." August 1, 2012. Youtube.
 
 For Sessions 6 and 7
 --------------------
@@ -65,12 +65,12 @@ Courtney, T. H. "Dislocations." Chapters 3 in _Mechanical Behavior of Materials_
 For Session 9
 -------------
 
-Excerpts from Was, G. S. Chapters 1.3 and 3 in _Fundamentals of Radiation Materials Science: Metals and Alloys_. Springer, 2007, pp. 44–59 and 125–52. ISBN: 9783540494713. \[Preview with {{% resource_link "fa16a5d4-9be2-4cbf-812f-4ad021b2af9f" "Google Books" %}}\]
+Excerpts from Was, G. S. Chapters 1.3 and 3 in _Fundamentals of Radiation Materials Science: Metals and Alloys_. Springer, 2007, pp. 44–59 and 125–52. ISBN: 9783540494713. \[Preview with [Google Books](http://books.google.com/books?id=0N06swAJI0AC&pg=PA44#v=onepage)\]
 
 For Session 10
 --------------
 
-Excerpts from ———. Chapters 2.1 and 5.1–5.3 in _Fundamentals of Radiation Materials Science: Metals and Alloys_. Springer, 2007, pp. 73–85 and 191–207. ISBN: 9783540494713. \[Preview with {{% resource_link "c44a3bd1-3944-4e77-b242-01e2b5023488" "Google Books" %}}\]
+Excerpts from ———. Chapters 2.1 and 5.1–5.3 in _Fundamentals of Radiation Materials Science: Metals and Alloys_. Springer, 2007, pp. 73–85 and 191–207. ISBN: 9783540494713. \[Preview with [Google Books](http://books.google.com/books?id=0N06swAJI0AC&pg=PA73#v=onepage)\]
 
 For Session 11
 --------------
@@ -85,9 +85,9 @@ n/a
 Additional Reading Resources
 ----------------------------
 
-Jiang, Qing, and Zi Wen. _Thermodynamics of Materials_. Springer, 2011. ISBN: 9783642147173. \[Preview with {{% resource_link "a43726ee-cd0c-4dd6-a2ff-328351cddbcc" "Google Books" %}}\]
+Jiang, Qing, and Zi Wen. _Thermodynamics of Materials_. Springer, 2011. ISBN: 9783642147173. \[Preview with [Google Books](http://books.google.com/books?id=3TfJOP2kd6YC&printsec=frontcover)\]
 
 {{% resource_link 7823c35e-bb5c-0fdb-9cf5-6fdb19030777 "Free Energy Diagram to Phase Diagram Example (PDF)" %}}
 
 Screw Dislocation Explained:  
-Patrick Shamberger. "{{% resource_link "f5b7b4c4-6227-4d55-9678-81cbd10d14b7" "Screw Dislocations: Texas A&M: Intro to Materials (MSEN 201)" %}}." August 27, 2014. Youtube.
+Patrick Shamberger. "[Screw Dislocations: Texas A&M: Intro to Materials (MSEN 201)](https://www.youtube.com/watch?v=TxJOP3hA6To)." August 27, 2014. Youtube.

@@ -4,6 +4,8 @@ description: This resource contains information regarding final exam.
 file: /courses/22-14-materials-in-nuclear-engineering-spring-2015/c03a704946dfd06cad193ff015e7669d_MIT22_14S15_Final-Exam.pdf
 file_size: 395478
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

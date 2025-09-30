@@ -48,7 +48,7 @@ Phase Diagrams, Phase Transformations; Free Energy Origins of Phase Diagrams
 {{< tdclose >}}{{< tdopen >}}
 Free Energy (cont.), Point Defects; Dislocations, 2D & 3D Defects; Stress, Strain, Plasticity, Creep, Fracture, Failure
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "aba28b3a-c69e-460f-9f63-76fed097013a" "Lecture 4 Defects and Deformation in Crystals (PDF - 19.9MB)" %}}  
+[Lecture 4 Defects and Deformation in Crystals (PDF - 19.9MB)](https://ocw-studio.odl.mit.edu/ans7870/22/22.14/s15/MIT22_14S15_Lecture4.pdf)  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9-10
 {{< tdclose >}}{{< tdopen >}}

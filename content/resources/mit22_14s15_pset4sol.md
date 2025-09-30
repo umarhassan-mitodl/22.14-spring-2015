@@ -4,6 +4,8 @@ description: This resource contains information regarding problem set 4 solution
 file: /courses/22-14-materials-in-nuclear-engineering-spring-2015/a56ff2e70f44d6beaa7d6bd3d55494e8_MIT22_14S15_Pset4Sol.pdf
 file_size: 450736
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
